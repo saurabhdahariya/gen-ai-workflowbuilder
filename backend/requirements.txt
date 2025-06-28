@@ -10,7 +10,7 @@ alembic==1.12.1
 
 # Configuration and Environment
 python-dotenv==1.0.0
-pydantic==2.5.0
+pydantic>=2.7.0,<3.0.0
 pydantic-settings==2.10.1
 
 # File Upload and Processing
