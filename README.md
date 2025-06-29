@@ -45,7 +45,7 @@ Display AI responses in a chat interface with conversation history.
                                 │
                                 ▼
                        ┌─────────────────┐
-                       │    ChromaDB     │
+                       │    Qdrant       │
                        │                 │
                        │ • Vector Store  │
                        │ • Embeddings    │
